@@ -1,1 +1,1 @@
-Welcome to your first hyperledger fabric Katacoda Scenario for test
+Welcome to your first hyperledger fabric Scenario 
