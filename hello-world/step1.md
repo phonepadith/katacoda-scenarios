@@ -9,11 +9,12 @@ Install Curl, Golang, nodejs, npm, and Python sofrware packages
 
 3. Install Golang `sudo apt-get install golang`{{execute}}
 
-4. Export Go Path `export GOPATH=$HOME/go`{{execute}}
-                  `export PATH=$PATH:$GOPATH/bin`{{execute}}
-                  
-5. Install Nodejs `sudo apt-get install nodejs`{{execute}}
+4. Export Go Path to HOME `export GOPATH=$HOME/go`{{execute}}
 
-6. Install Npm `sudo apt-get install npm`{{execute}}
+5. Export Go Path to bin `export PATH=$PATH:$GOPATH/bin`{{execute}}
 
-7. Install Python `sudo apt-get install python`{{execute}}
+6. Install Nodejs `sudo apt-get install nodejs`{{execute}}
+
+7. Install Npm `sudo apt-get install npm`{{execute}}
+
+8. Install Python `sudo apt-get install python`{{execute}}
