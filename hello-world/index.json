@@ -1,13 +1,23 @@
 {
   "title": "Hello World Hyperledger Frabic test Scenario",
-  "description": "Your First Scenario",
+  "description": "Install Hyperledger Fabric",
   "difficulty": "beginner",
   "time": "15 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
       "text": "step1.md"
-    }],
+    },
+    {
+      "title": "Step 2 - Run Command",
+      "text": "step1.md"
+    },
+    {
+      "title": "Step 3 - Run Command",
+      "text": "step1.md"
+    }
+  ],
+    
     "intro": {
       "text": "intro.md",
       "credits": ""

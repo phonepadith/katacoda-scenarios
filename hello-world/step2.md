@@ -4,4 +4,4 @@ This is your first step.
 
 This is an _example_ of creating a scenario and running a **command**
 
-`sudo apt-get remove docker docker-engine docker.io containerd runc`{{execute}}
+`echo 'Hello World'`{{execute}}
