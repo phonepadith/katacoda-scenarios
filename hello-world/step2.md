@@ -28,6 +28,6 @@ Install Docker environment.
 ## Verify docker installation
 
 1. Test the installation Docker-ce
-   `docker version`
+   `docker version`{{execute}}
 2. Test the installation Docker Compose
-   `docker-compose --version`
+   `docker-compose --version`{{execute}}

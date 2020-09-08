@@ -7,7 +7,7 @@ Update Nodejs and Golang to the proper version:
 
 2. Extract file `tar -xzvf go1.15.1.linux-amd64.tar.gz`{{execute}}
 
-3. Move Golang Files to local `sudo mv go/ usr/local`{{execute}}
+3. Move Golang Files to local `sudo mv go/ /usr/local`{{execute}}
 
 4. Export Golang PATH `export PATH=$PATH:$GOPATH/bin`{{execute}}
 
