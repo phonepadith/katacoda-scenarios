@@ -13,4 +13,4 @@ Update Nodejs and Golang to the proper version:
 
 5. Download nodejs  `curl -sL https://deb.nodesource.com/setup_8.x | sudo bash -`{{execute}}
 
-6. Update nodejs  `sudo apt-get install -y nodejs`{{execute}}
+6. Update nodejs  `apt-get install -y nodejs`{{execute}}
