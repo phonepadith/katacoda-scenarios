@@ -1,8 +1,12 @@
-This is your first step.
+This is first step.
+Install Docker environment.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+1. update Linux
+`sudo apt-get update`{{execute}}
+
+2. Update the apt package index and install packages to allow apt to use a repository over HTTPS:
 
 `sudo apt-get install \
     apt-transport-https \
@@ -10,3 +14,7 @@ This is an _example_ of creating a scenario and running a **command**
     curl \
     gnupg-agent \
     software-properties-common`{{execute}}
+
+3. Add Docker’s official GPG key:
+`curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -`{{execute}}
+
