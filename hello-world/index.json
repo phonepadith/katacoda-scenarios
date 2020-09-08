@@ -1,8 +1,8 @@
 {
-  "title": "Hello World Scenario",
+  "title": "Hello World Hyperledger Frabic test Scenario",
   "description": "Your First Scenario",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "15 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
