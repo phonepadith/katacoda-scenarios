@@ -21,6 +21,6 @@ Verifly everything
 6. Check python version `python -V`{{execute}}
    (Should be 2.7.17 or Higher)
 
-7. check node -v `node -v`
+7. check node -v `node -v`{{execute}}
    (Should be 8.10.0 or Higher)
 

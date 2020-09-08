@@ -27,7 +27,7 @@ Install Docker environment.
 
 ## Verify docker installation
 
-1. Test the installation Docker-ce
+7. Test the installation Docker-ce
    `docker version`{{execute}}
-2. Test the installation Docker Compose
+8. Test the installation Docker Compose
    `docker-compose --version`{{execute}}

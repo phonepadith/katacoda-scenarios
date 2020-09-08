@@ -1,1 +1,1 @@
-You've completed your Hyperledger Frabic Scenario Part 1!
+You've completed your Hyperledger Fabric 2.0 !
