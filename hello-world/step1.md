@@ -1,20 +1,19 @@
-This is first step.
-Install Docker environment.
+The first step.
+Install Curl, Golang, nodejs, npm, and Python sofrware packages
 
 ## Task
 
-1. update Linux
-`sudo apt-get update`{{execute}}
+1. update Linux `sudo apt-get update`{{execute}}
 
-2. Update the apt package index and install packages to allow apt to use a repository over HTTPS:
+2. Install Curl `sudo apt-get install Curl`{{execute}}
 
-`sudo apt-get install \
-    apt-transport-https \
-    ca-certificates \
-    curl \
-    gnupg-agent \
-    software-properties-common`{{execute}}
+3. Install Golang `sudo apt-get install golang`{{execute}}
 
-3. Add Docker’s official GPG key:
-`curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -`{{execute}}
+4. Export Go Path `export GOPATH=$HOME/go`{{execute}}
+                  `export PATH=$PATH:$GOPATH/bin`{{execute}}
+                  
+5. Install Nodejs `sudo apt-get install nodejs`{{execute}}
 
+6. Install Npm `sudo apt-get install npm`{{execute}}
+
+7. Install Python `sudo apt-get install python`{{execute}}
