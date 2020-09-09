@@ -39,7 +39,9 @@
     }
   },
   "environment": {
+    "uieditorpath": "/root/example",
     "showide": true,
+    "idePort": 23000,
     "uilayout": "terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n----\u001b[m\r\n"
   },
