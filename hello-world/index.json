@@ -21,8 +21,12 @@
       "text": "step4.md"
     },
     {
-      "title": "Step 5 - Install Hyperledger Fabric",
+      "title": "Step 5 - Binary and Docker Images",
       "text": "step5.md"
+    },
+    {
+      "title": "Step 6 - Install Hyperledger Fabric",
+      "text": "step6.md"
     }
   ],
     
@@ -35,8 +39,8 @@
     }
   },
   "environment": {
+    "showide": true,
     "uilayout": "terminal",
-    "uilayout2": "vscode",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n----\u001b[m\r\n"
   },
   "backend": {
