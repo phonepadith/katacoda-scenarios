@@ -1,8 +1,13 @@
 The sixth Step
-Clone NETWORK 2.0 and run the First-network 
+Clone Blockchain NETWORK file and run the First-network 
 
 ## Task
 
-1. Clone the basic Network`https://github.com/adhavpavan/BasicNetwork-2.0.git`{{execute}}
+1. Clone the basic Network`git clone https://github.com/adhavpavan/BasicNetwork-2.0.git`{{execute}}
 
+2. Go to tab IDE and viewing files in direcrtory "BasicNetwork-2.0"
 
+3. back to terminal Generate Crypto artifactes for organizations by using command below
+   `cd BasicNetwork-2.0/artifacts/channel`{{execute}}
+
+4. Edit file create-artifacts.sh 

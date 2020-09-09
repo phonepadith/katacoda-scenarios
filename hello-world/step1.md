@@ -5,7 +5,7 @@ Install Curl, Golang, nodejs, npm, and Python sofrware packages
 
 1. Update Linux `apt-get update`{{execute}}
 
-2. Install Curl `apt-get install Curl`{{execute}}
+2. Install Curl `apt-get install curl`{{execute}}
 
 3. Install wget `apt-get install wget`{{execute}}
 
