@@ -39,7 +39,7 @@
     }
   },
   "environment": {
-    "uieditorpath": "/root/example",
+    "uieditorpath": "/root/",
     "showide": true,
     "idePort": 23000,
     "uilayout": "terminal",
