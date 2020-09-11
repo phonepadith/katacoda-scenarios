@@ -27,6 +27,10 @@
     {
       "title": "Step 6 - Install Hyperledger Fabric",
       "text": "step6.md"
+    },
+    {
+      "title": "Step 7 - Run Test Network ",
+      "text": "step7.md"
     }
   ],
     
